@@ -18,5 +18,7 @@ and deeper cultural understanding.
 
 - **Part 3.2**: [Contains the Part3.2], https://malayancollegesmindanaoo365-my.sharepoint.com/:w:/g/personal/vdflores_mcm_edu_ph/Ec8hhj3cSdBPgn83ppMaOkoB3KFDRhNlbA_6hK-f2N_v3A?e=iUcQsM.
 
+- **Part UI**: [Contains the UI], [https://malayancollegesmindanaoo365-my.sharepoint.com/:w:/g/personal/vdflores_mcm_edu_ph/Ec8hhj3cSdBPgn83ppMaOkoB3KFDRhNlbA_6hK-f2N_v3A?e=iUcQsM.](https://malayancollegesmindanaoo365-my.sharepoint.com/:f:/g/personal/vdflores_mcm_edu_ph/Er0wM5S0RkxDqIpgnTnmZU4BbxWuas_yJROKl37qSZaVxw?e=iwmRdx)
+
 - **FINAL PART**: [Features the final Video/prototype, detailed app description,](https://malayancollegesmindanaoo365-my.sharepoint.com/:f:/g/personal/vdflores_mcm_edu_ph/ErccCGC3QlZPiluyv6M1JscBTasSJT4u2b3bR6r3rp-lnQ?e=rq5isd).
 
