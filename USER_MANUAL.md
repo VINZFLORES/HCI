@@ -1,10 +1,6 @@
 ### Introduction
 ---
-D-va is a comprehensive multilingual translation app tailored for tourists and language learners.
-It enhances the travel and learning experience by enabling on-the-go translations and conversion of
-these into flashcards for effective language practice. This user-friendly app integrates real-time
-speech-to-text and text-to-text translations across multiple languages, promoting better communication
-and deeper cultural understanding.
+To support daily productivity, our project is a digital calendar software that includes task management and tailored recommendations. With an integrated to-do list for daily tasks and a daily routine tailored to each user's preferences and habits, this program will help users with their daily activities.Professionals, students, and everyone else wishing to successfully manage their daily calendar and tasks are among the intended user base. The calendar application will exploit AI algorithms that study user behavior and preferences to provide highly customized recommendations for optimum productivity. Users can prioritize tasks at different levels so they can be alerted when important due dates are approaching. Moreover, the tool will be equipped with data visualizations that enable one to track progress while also helping identify areas where time is not well managed from. .
 
 ### Prototype
 [THE FIGMA LINK](https://www.figma.com/design/3Te7Y5K7oPmWgjUi2sItUh/UI-P1?node-id=1-854&t=dA47jd2GULDFo2xu-1)
