@@ -7,7 +7,7 @@ To support daily productivity, our project is a digital calendar software that i
 
 ### More Info
 
-- **Certificate**: [Contains the certificate Flores Vinz Daniel received from the required Coursera course](https://malayancollegesmindanaoo365-my.sharepoint.com/:b:/g/personal/vdflores_mcm_edu_ph/EXUuAnVHPEFIvpqozbE8-ScBHxVo4p8kY9c0kH0ug0Tt3g?e=mGRNYW).
+- **Certificate**: [Contains the certificate Flores Vinz Daniel received from the required Coursera course](https://malayancollegesmindanaoo365-my.sharepoint.com/:f:/g/personal/vdflores_mcm_edu_ph/Ev3r6VvMet1MhkSEz0Z7VOMBRoGrws5kpoOw61YKw1-4RQ?e=qvvy73).
 
 - **Part 3.1**: [Contains the Part3.1] (https://malayancollegesmindanaoo365-my.sharepoint.com/:w:/g/personal/vdflores_mcm_edu_ph/EdmJRgzSPW1Jg5L9gfn0PwIBX8FeBlVFAliPwxgJ2wPO4g?e=pJFrcc)
   
